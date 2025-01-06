@@ -78,4 +78,3 @@ let result = SJF(processes);
 console.log(result.completedQueue);
 console.log(`Average Waiting Time: ${result.averageWaitingTime}`);
 console.log(`Average Turnaround Time: ${result.averageTurnaroundTime}`);
-
